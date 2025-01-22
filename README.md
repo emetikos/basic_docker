@@ -1,2 +1,2 @@
 # basic_docker
-basic defaut docker setup
+basic default docker setup
